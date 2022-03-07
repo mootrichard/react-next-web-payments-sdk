@@ -8,9 +8,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@square/web-sdk": "^2.0.0",
     "next": "12.0.7",
+    "next-transpile-modules": "^9.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-square-web-payments-sdk": "^2.2.3",
+    "square": "^17.0.0"
   },
   "devDependencies": {
     "eslint": "8.6.0",
